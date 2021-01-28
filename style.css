@@ -1,14 +1,11 @@
-body{
-    background-image: url("fundo-bits.jpg");
-  
-}
+
 #apresentacao{
     font-family: 'Potta One', cursive;
     margin-top: 33px!important;
-    margin-left: 32px;
+    margin-left: 65px;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
-    font-size: 2em; color: pink;
+    font-size: 1em; color: pink;
     
    
 }
@@ -37,6 +34,7 @@ body{
     border: solid 2px;
     border-radius:5px;
     transform: translateX(-50%) translateY(-50%);
+    background-color: darkcyan;
 
 }
 #n0{
